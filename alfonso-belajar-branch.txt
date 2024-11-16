@@ -1,2 +1,4 @@
 Hari ini, Sabtu, 16-11-2024 pukul 18:48 WIB, saya sedang belajar git dan Github, khususnya materi tentang Branch.
 Branch adalah konsep "percabangan" dalam git yang fungsinya adalah sebagai upaya memisahkan pengerjaan/pengembangan kode agar tidak menggangu aktivitas kode yang terjadi di cabang utama yaitu master/branch.
+Branch bermanfaat agar kode tampak terorganisir dan aman, terutama bila bekerja dalam tim yang terdiri lebih dari 2 orang. 
+Branch erat kaitannya dengan aktivitas Merge.
